@@ -11,3 +11,4 @@ cirq >= 1.0.0
 openfermion >= 0.9.0
 qsimcirq >= 0.1.0
 ipython >= 1.0.0
+ipykernel >= 1.0.0
